@@ -1,0 +1,266 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+    
+    .voice_heard {
+        border: 1px solid #010101;
+        margin-left: 0px;
+    }
+    .h1_cfib {
+        font-size: 25px;
+    }
+    .vh_h4 {
+        padding-top: 0px;
+        font-size: 20px;
+    }
+     /* Have your voice heard start */
+     .vh_h3 {
+        font-size: 21px;
+    }
+    .vh_p1 {
+        margin-top: -15px;
+        padding: 0px 0px;
+        font-size: 18px;
+    }
+
+    .vh_h5 {
+        padding: 0px 0px 0px;
+        font-size: 22px;
+    }
+    .vh_p3 {
+        padding: 0px 0px;
+        font-size: 20px;
+    }
+    .vh_lasth4 {
+        padding: 0px 0px;
+        font-size: 20px;
+    }
+  
+    /* Have your voice heard end  */
+
+    /* Expert Resources  start */
+    .ex_h3 {
+        font-size: 20px;
+    }
+    .er_h4 {
+        padding: 0px 0px;
+        font-size: 20px;
+    }
+
+    .er_p1 {
+        margin-top: -15px;
+        padding: 0px 0px;
+        font-size: 20px;
+    }
+
+    .er_ex {
+        font-size: 22px;
+    }
+    .er_p2 {
+        margin-top: -15px;
+        font-size: 20px;
+        padding: 0px 0px;
+    }
+
+    .er_bt {
+        font-size: 22px;
+    }
+    .er_p3 {
+        margin-top: -15px;
+        padding: 0px 0px;
+        font-size: 20px;
+    }
+    .er_lex {
+        margin-top: -5px;
+        padding: 0px 0px;
+        font-size: 21px;
+    }
+    /* Expert Resources  end */
+    /* Members Only Savings part start */
+    .mos_h3 {
+        font-size: 25px;
+    }
+    .esp_h4 {
+        padding: 0px 0px;
+        font-size: 22px;
+    }
+
+    .mos_p1 {
+        padding: 0px 0px;
+        font-size: 20px;
+    }
+    .cfib_nr {
+        font-size: 22px;
+    }
+    .mos_p2 {
+        margin-top: -15px;
+        font-size: 21px;
+        font-weight: 400;
+        color: #484848;
+        padding: 0px 0px;
+    }
+    .enjoy_h4 {
+        padding: 0px 0px;
+        font-size: 22px;
+    }
+
+    /* Members Only Savings part end */
+}
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .h1_cfib {
+        font-size: 25px;
+        font-weight: 700;
+        color: #D31145;
+    }
+
+    /* Have your voice heard start */
+
+    /* Have your voice heard end  */
+  
+}
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+    .h1_cfib {
+        font-size: 32px;
+    }
+    /* Have your voice heard start */
+    .vh_h3 {
+        font-size: 20px;
+    }
+
+    .vh_h4 {
+        padding-top: 5px;
+        font-size: 20px;
+    }
+
+    .vh_p1 {
+        margin-top: -15px;   
+    }
+    .vh_h5 {
+        font-size: 18px;
+    }
+    .vh_p3 {
+        font-size: 18px;
+        font-weight: 400;
+        color: #484848;
+        margin-top: -30px;
+    }
+    .vh_lasth4 {
+    font-size: 24px;
+    font-size: 20px;
+    font-weight: 700;
+    color: #ED7D31;
+    }
+    /* Have your voice heard end  */
+
+    /* Expert Resources  start */
+    .ex_h3 {
+        font-size: 22px;
+    }
+    
+    .er_h4 {
+        padding: 0px 0px;
+        font-size: 24px;
+        font-weight: 700;
+        color: #0070C0;
+    }
+
+    .er_p1 {
+        padding: 0px 0px;
+        margin-top: -15px;
+        font-size: 20px;
+        font-weight: 400;
+        color: #484848;
+    }
+    .er_ex {
+        font-size: 20px;
+    }
+
+    .er_p2 {
+        margin-top: -15px;
+        font-size: 19px;
+        font-weight: 400;
+        color: #484848;
+    }
+
+    .er_bt {
+        font-size: 20px;
+    }
+    .er_p3 {
+        padding: 0px 0px;
+        margin-top: -15px;
+        font-size: 20px;
+    }
+
+    .er_lex {
+        padding: 0px 0px;
+        font-size: 22px;
+        font-weight: 700;
+        color: #0070C0;
+    }
+    /* Expert Resources  end */
+
+    /* Members Only Savings part start */
+    .mos_h3 {
+        font-size: 22px;
+        font-weight: 700;
+        color: #484848 ;
+    }
+    .esp_h4 {
+        padding: 0px 0px;
+        font-size: 20px;
+        font-weight: 700;
+        color: #70AD47;
+    }
+
+    .mos_p1 {
+        padding: 0px 0px;
+        font-size: 22px;
+        font-weight: 400;
+        color: #484848;
+    }
+
+    .cfib_nr {
+        font-size: 21px;
+    }
+    .mos_p2 {
+        font-size: 19px;
+        font-weight: 400;
+        color: #484848;
+        padding: 0px 0px;
+    }
+
+    .enjoy_h4 {
+        padding: 0px 0px;
+        font-size: 19px;
+        font-weight: 700;
+        color: #70AD47;
+    }
+    /* Members Only Savings part end */
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  
+}
+
+/* Extra large devices (extra large desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+  
+}
+/* Extra Extra large devices (extra extra large desktops, 1400px and up) */
+@media (min-width: 1400px) {
+    /* 1st part */
+    .vh_h3 {
+        font-size: 30px;
+    }
+
+    .vh_p1 {
+        font-size: 25px;
+    }
+    .vh_h5 {
+        padding: 0px 30px 0px;
+       
+    }
+}

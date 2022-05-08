@@ -1,0 +1,189 @@
+body{
+  margin:0;
+  padding:0;
+  font-family: 'Roboto', sans-serif;
+}
+
+/* Have your voice heard start */
+.wrap_table{
+  border:1px solid black;
+}
+.h1_cfib{
+  font-size:40px;
+  font-weight:700;
+  color:#D31145;
+}
+.voice_heard{
+  border:1px solid #010101;
+  margin-left: -25px;
+}
+
+.vh_h3{
+  font-size:24px;
+  font-weight:500;
+  color:#484848 ;
+}
+
+.vh_h4{
+  padding-top: 15px;
+  font-size:24px;
+  font-weight:700;
+  color:#ED7D31 ;
+}
+
+.vh_h5{
+  padding: 17px 23px 15px;
+  font-size:24px;
+  font-weight:700;
+  color:#ED7D31 ;
+}
+
+.vh_p1{
+  padding: 0px 10px;
+  font-size:20px;
+  font-weight:400;
+  color:#484848 ;
+}
+
+.vh_p3{
+  padding: 0px 10px;
+  font-size: 26px;
+  font-weight: 400;
+  color: #484848;
+}
+
+.vh_lasth4 {
+  padding: 0px 43px;
+  padding-top: 15px;
+  font-size: 24px;
+  font-weight: 700;
+  color: #ED7D31;
+}
+
+/* Have your voice heard end */
+
+/* Expert Resources  Start */
+.ex_h3{
+  font-size:32px;
+  font-weight:700;
+  color:#484848 ;
+}
+
+.er_h4{
+  font-size:25px;
+  font-weight:700;
+  color:#0070C0 ;
+}
+
+.er_p1{
+  
+  font-size:20px;
+  font-weight:400;
+  color:#484848 ;
+}
+
+.er_ex{
+  padding-top: 10px;
+  font-size:24px;
+  font-weight:700;
+  color:#0070C0 ;
+}
+
+.er_p2{
+  margin-top: -15px;
+  font-size: 26px;
+  font-weight: 400;
+  color: #484848;
+  padding: 0px 33px;
+}
+
+.er_bt{
+  font-size:24px;
+  font-weight:700;
+  color:#0070C0 ;
+}
+
+.er_p3{
+  font-size:20px;
+  font-weight:400;
+  color:#484848 ;
+}
+
+.er_lex{
+  font-size:24px;
+  font-weight:700;
+  color:#0070C0 ;
+}
+
+.er_p1{
+  margin-top: -15px;
+  padding: 0px 65px;
+  font-size: 22px;
+  font-weight: 400;
+  color: #484848;
+}
+
+.er_bt{
+
+}
+
+.er_p3{
+  margin-top: -15px;
+  padding: 0px 65px;
+  font-size: 22px;
+  font-weight: 400;
+  color: #484848;
+}
+
+.er_lex{
+  margin-top: -5px;
+  padding: 10px 56px;
+  font-size: 25px;
+  font-weight: 700;
+  color: #0070C0;
+}
+/* Expert Resources  End */
+
+/* Members Only Savings part start */
+.mos_h3{
+  font-size:32px;
+  font-weight:700;
+  color:#484848  ;
+}
+
+.esp_h4{
+  padding: 15px 75px;
+  font-size: 25px;
+  font-weight:700;
+  color:#70AD47 ;
+}
+
+.cfib_nr{
+  font-size:24px;
+  font-weight:700;
+  color:#70AD47 ;
+}
+
+.mos_p1{
+  padding: 0px 15px;
+  font-size: 26px;
+  font-weight: 400;
+  color: #484848;
+}
+
+.mos_p2{
+  margin-top: -15px;
+  font-size: 24px;
+  font-weight: 400;
+  color: #484848;
+  padding: 0px 46px;
+}
+
+.enjoy_h4{
+  padding: 0 44px;
+  font-size:24px;
+  font-weight:700;
+  color:#70AD47 ;
+}
+
+/* Members Only Savings part end */
